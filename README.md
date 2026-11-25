@@ -1,2 +1,12 @@
 # Mahima
 python activity
+"https://github.com/mahimaPU30/University-Scholarship-Allocation.git" ,
+"https://github.com/mahimaPU30/Progressive-Electricity-Billing.git" ,
+"https://github.com/mahimaPU30/Hospital-Billing-Patient-Classification.git" ,
+"https://github.com/mahimaPU30/Employee-Payroll-Analysis.git" ,
+"https://github.com/mahimaPU30/Telecom-Plan-Optimizer.git" ,
+"https://github.com/mahimaPU30/Railway-Fare-Reservation.git" ,
+"https://github.com/mahimaPU30/Retail-Billing-Discounts.git" ,
+"https://github.com/mahimaPU30/Manufacturing-Cost-Profit.git" ,
+"https://github.com/mahimaPU30/Multi-Currency-Travel-Budget.git" ,
+"https://github.com/mahimaPU30/Campus-Event-Financial-Planning.git" .
